@@ -1,0 +1,169 @@
+[
+    {
+      "title": "Fire-Boltt Ninja Call Pro Plus",
+      "location": "Karaikudi",
+      "shop": "Reliance Digital",
+      "Address": "SF No 164/7, 8 & 9, Ground & 1st Floor, Near Columbu Stores, Sekkalai Rd, Karaikudi, Tamil Nadu 630001",
+      "type": "watch",
+      "description": "uhcsiubwoieuhvcoweuihdwo9cuheouwihco9gewijv98yhkjncsd98yhvewvj.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/image-storage-60cef.appspot.com/o/IMG-20241019-WA0009.jpg?alt=media",
+      "price": 28.1,
+      "rating": 4
+    },
+    {
+      "title": "Portronics Hydra 10 Mechanical Wireless Gaming Keyboard ",
+      "location": "Karaikudi",
+      "shop": "Reliance Digital",
+      "Address": "SF No 164/7, 8 & 9, Ground & 1st Floor, Near Columbu Stores, Sekkalai Rd, Karaikudi, Tamil Nadu 630001",
+      "type": "snacks",
+      "description": "Lay's Classic is a simple, salted potato chip with a satisfying crunch.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/image-storage-60cef.appspot.com/o/IMG-20241019-WA0012.jpg?alt=media",
+      "price": 25.0,
+      "rating": 4.2
+    },
+    {
+      "title": "Doritos Nacho Cheese",
+      "location": "Karaikudi",
+      "shop": "A2B Mart",
+      "Address": "SF No 164/7, 8 & 9, Ground & 1st Floor, Near Columbu Stores, Sekkalai Rd, Karaikudi, Tamil Nadu 630001",
+      "type": "snacks",
+      "description": "Doritos Nacho Cheese is a cheesy, crunchy tortilla chip with bold flavors.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/image-storage-60cef.appspot.com/o/IMG-20241019-WA0012.jpg?alt=media",
+      "price": 35.5,
+      "rating": 4.5
+    },
+    {
+      "title": "Cheetos Crunchy",
+      "location": "Karaikudi",
+      "shop": "SVS Super Market",
+      "Address": "Maruthamalayan school, 366/1, opposite railway gate, Karaikudi, Tamil Nadu 630001",
+      "type": "snacks",
+      "description": "Cheetos Crunchy is a cheesy snack with a strong, crunchy texture.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/image-storage-60cef.appspot.com/o/IMG-20241019-WA0010.jpg?alt=media",
+      "price": 30.0,
+      "rating": 4.3
+    },
+    {
+      "title": "Bingo Mad Angles",
+      "location": "Karaikudi",
+      "shop": "Sri Krishna Mart",
+      "Address": "12C North Street, Karaikudi, Tamil Nadu 630004",
+      "type": "snacks",
+      "description": "Bingo Mad Angles are a popular Indian snack with a spicy tangy flavor.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/image-storage-60cef.appspot.com/o/IMG-20241019-WA0011.jpg?alt=media",
+      "price": 20.0,
+      "rating": 4.1
+    }
+    ,
+      {
+        "title": "Pringles",
+        "location": "Karaikudi",
+        "shop": "SVS Super Market",
+        "Address": "Maruthamalayan school, 366/1, opposite railway gate, Karaikudi, Tamil Nadu 630001",
+        "type": "snacks",
+        "description": "Pringles is a popular snack brand known for its crispy potato chips.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/image-storage-60cef.appspot.com/o/Pringles%20Original.jpeg?alt=media",
+        "price": 28.1,
+        "rating": 4
+      },
+      {
+        "title": "Lay's Classic",
+        "location": "Karaikudi",
+        "shop": "Sri Ganesh Stores",
+        "Address": "45B Main Road, Karaikudi, Tamil Nadu 630002",
+        "type": "snacks",
+        "description": "Lay's Classic is a simple, salted potato chip with a satisfying crunch.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/image-storage-60cef.appspot.com/o/IMG-20241019-WA0012.jpg?alt=media",
+        "price": 25.0,
+        "rating": 4.2
+      },
+      {
+        "title": "Doritos Nacho Cheese",
+        "location": "Karaikudi",
+        "shop": "A2B Mart",
+        "Address": "22A South Street, Karaikudi, Tamil Nadu 630003",
+        "type": "snacks",
+        "description": "Doritos Nacho Cheese is a cheesy, crunchy tortilla chip with bold flavors.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/image-storage-60cef.appspot.com/o/IMG-20241019-WA0012.jpg?alt=media",
+        "price": 35.5,
+        "rating": 4.5
+      },
+      {
+        "title": "Cheetos Crunchy",
+        "location": "Pudukottai",
+        "shop": "SVS Super Market",
+        "Address": "Maruthamalayan school, 366/1, opposite railway gate, Karaikudi, Tamil Nadu 630001",
+        "type": "snacks",
+        "description": "Cheetos Crunchy is a cheesy snack with a strong, crunchy texture.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/image-storage-60cef.appspot.com/o/IMG-20241019-WA0010.jpg?alt=media",
+        "price": 30.0,
+        "rating": 4.3
+      },
+      {
+        "title": "Bingo Mad Angles",
+        "location": "Karaikudi",
+        "shop": "Sri Krishna Mart",
+        "Address": "12C North Street, Karaikudi, Tamil Nadu 630004",
+        "type": "snacks",
+        "description": "Bingo Mad Angles are a popular Indian snack with a spicy tangy flavor.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/image-storage-60cef.appspot.com/o/IMG-20241019-WA0011.jpg?alt=media",
+        "price": 20.0,
+        "rating": 4.1
+      },
+      
+        {
+          "title": "Pringles",
+          "location": "Pudukottai",
+          "shop": "SRS Super Market",
+          "Address": "1st Floor, Anna Nagar, Pudukottai, Tamil Nadu 622001",
+          "type": "snacks",
+          "description": "Pringles is a popular snack brand known for its crispy potato chips.",
+          "image": "https://firebasestorage.googleapis.com/v0/b/image-storage-60cef.appspot.com/o/Pringles%20Original.jpeg?alt=media",
+          "price": 28.1,
+          "rating": 4
+        },
+        {
+          "title": "Lay's Classic",
+          "location": "Pudukottai",
+          "shop": "Kumar Stores",
+          "Address": "45B Main Road, Pudukottai, Tamil Nadu 622002",
+          "type": "snacks",
+          "description": "Lay's Classic is a simple, salted potato chip with a satisfying crunch.",
+          "image": "https://firebasestorage.googleapis.com/v0/b/image-storage-60cef.appspot.com/o/IMG-20241019-WA0012.jpg?alt=media",
+          "price": 25.0,
+          "rating": 4.2
+        },
+        {
+          "title": "Doritos Nacho Cheese",
+          "location": "Pudukottai",
+          "shop": "Vikram Mart",
+          "Address": "22A South Street, Pudukottai, Tamil Nadu 622003",
+          "type": "snacks",
+          "description": "Doritos Nacho Cheese is a cheesy, crunchy tortilla chip with bold flavors.",
+          "image": "https://firebasestorage.googleapis.com/v0/b/image-storage-60cef.appspot.com/o/IMG-20241019-WA0012.jpg?alt=media",
+          "price": 35.5,
+          "rating": 4.5
+        },
+        {
+          "title": "Cheetos Crunchy",
+          "location": "Pudukottai",
+          "shop": "New Food Mart",
+          "Address": "Maruthamalayan School Road, Pudukottai, Tamil Nadu 622004",
+          "type": "snacks",
+          "description": "Cheetos Crunchy is a cheesy snack with a strong, crunchy texture.",
+          "image": "https://firebasestorage.googleapis.com/v0/b/image-storage-60cef.appspot.com/o/IMG-20241019-WA0010.jpg?alt=media",
+          "price": 30.0,
+          "rating": 4.3
+        },
+        {
+          "title": "Bingo Mad Angles",
+          "location": "Pudukottai",
+          "shop": "Vasanth & Co.",
+          "Address": "12C North Street, Pudukottai, Tamil Nadu 622005",
+          "type": "snacks",
+          "description": "Bingo Mad Angles are a popular Indian snack with a spicy tangy flavor.",
+          "image": "https://firebasestorage.googleapis.com/v0/b/image-storage-60cef.appspot.com/o/IMG-20241019-WA0011.jpg?alt=media",
+          "price": 20.0,
+          "rating": 4.1
+        }
+      ]

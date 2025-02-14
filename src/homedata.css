@@ -1,0 +1,64 @@
+.product-grid {
+  
+  display: flex; /* Changed to flex for horizontal layout */
+  flex-direction: row;
+  flex-wrap: wrap; /* Allow wrapping to new lines if needed */
+  justify-content: center; /* Center horizontally */
+  gap: 20px; /* Spacing between cards */
+}
+
+.product-card {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 8px; /* Rounded corners */
+  overflow: hidden; /* Prevents image overflow */
+  text-align: center;
+  padding: 1rem;
+  width: 300px; /* Adjust card width as needed */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Add transition for animations */
+}
+
+.product-card img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 0.5rem;
+}
+
+/* Hover animation */
+.product-card:hover {
+  transform: translateY(-5px); /* Slight lift on hover */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* More prominent shadow on hover */
+  cursor: pointer;
+}
+
+.product-card h3 {
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+}
+
+.product-card p {
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+}
+.product-card a {
+  display: block; /* Makes the link take up the full width */
+  text-decoration: none;
+  color: #3498db; /* Use a suitable color */
+  margin-bottom: 0.5rem; /* Add some spacing */
+  transition: color 0.3s; /* Smooth transition on hover */
+}
+
+.product-card a:hover {
+  color: #2980b9;
+}
+
+/*Responsive adjustments */
+@media (max-width: 768px){
+    .product-grid{
+        flex-direction: column; /* Stack vertically on smaller screens */
+    }
+    .product-card{
+        width: calc(100% - 40px); /* Occupies almost full width */
+        margin-bottom: 20px;
+    }
+}

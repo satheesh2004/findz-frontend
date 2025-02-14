@@ -1,0 +1,157 @@
+[
+  {
+
+  "title": "pringles",
+  "location":"Karaikudi",
+  "shop":"svs super market",
+  "Address":"Maruthamalayan school, 366/1, opposite railway gate, Karaikudi, Tamil Nadu 630001",
+  "type": "snakes",
+  "description": "Pringles is a popular snack brand known for its crispy",
+  "filename": "0.jpg",
+  
+  "price": 28.1,
+  "rating": 4
+}, 
+
+
+{
+
+  "title": "pringles",
+  "location":"Karaikudi",
+  "shop":"roja super market",
+  "Address":"Main Rd, Karaikudi, Tamil Nadu 630202",
+  "type": "snakes",
+  "description": "Pringles is a popular snack brand known for its crispy",
+  "filename": "0.jpg",
+  
+  "price": 26.1,
+  "rating": 4
+},
+
+{
+
+  "title": "pringles",
+  "location":"Karaikudi",
+  "shop":"Smart Bazzar",
+  "Address":"13081 To 1310, 7th Street, 1st St, South Extension, Tamil Nadu 630001",
+  "type": "snakes",
+  "description": "Pringles is a popular snack brand known for its crispy",
+  "filename": "0.jpg",
+  
+  "price": 23.1,
+  "rating": 4
+},
+
+{
+  "title": "watch",
+  "location":"Karaikudi",
+  "shop":"Titan",
+  "Address":"K.AL.Rm. St, Kallukatti, Karaikudi, Tamil Nadu 630001",
+  "type": "Accessory ",
+  "description": "A watch is a timekeeping device typically worn on the wrist or carried in a pocket.",
+  "filename": "1.jpg",
+  
+  "price": 29.45,
+  "rating": 4
+}, {
+  "title": "Casual SHOE",
+  "location":"Pudukotti",
+  "shop":"Trendz",
+  "Address":"3930, S 2nd St, Kadukkakadu, Pudukkottai, Tamil Nadu 622001",
+  "type": "FOOTWEARS",
+  "description": "Asparagus with ham on the wooden table",
+  "filename": "2.jpg",
+  
+  "price": 18.95,
+  "rating": 3
+},
+{
+"title": "shirt",
+  "location":"Karaikudi",
+  "shop":"Aaiyappa Textiles",
+  "Address":"167, Sekkalai Rd, Muthupattinam, Karaikudi, Tamil Nadu 630001",
+  "type": "Dress",
+  "description": "make you won style",
+  "filename": "3.jpg"
+},
+{
+  "title": "Pant",
+  "location":"Pudukottai",
+  "shop":"Athikalathu Alangara Maligai",
+  "Address":"9RPC+5C5, 867/2, N Main St, Melaraja Vidi, Brindavan, Pudukkottai, Tamil Nadu 622001",
+  "type": "Dress",
+  "description": "make you won style",
+  "filename": "4.jpg"
+
+
+},
+{
+  "title": "Dining table",
+  "location":"pudukottai",
+  "shop":"Tharagai furniture",
+  "Address":"3930, S 2nd St, Kadukkakadu, Pudukkottai, Tamil Nadu 622001",
+  "type": "Furniture ",
+  "description": "spend time with your friends",
+  "filename": "5.jpg"
+
+
+},
+{
+  "title": "Bed",
+  "location":"karaikudi",
+  "shop":"New royal Furniture",
+  "Address":"Plot No:12, Ambalpuram 1st Street, College Rd, Karaikudi, Tamil Nadu 630002",
+  "type": "Furniture ",
+  "description": "spend time with your family",
+  "filename": "6.jpg"
+
+
+}
+,
+{
+  "title": "belt",
+  "location":"Karaikudi",
+  "shop":"Ramalingam stores",
+  "Address":"3Q99+P6W, Sekkalai Rd, Kallukatti, Karaikudi, Tamil Nadu 630001",
+  "type": "Accessory",
+  "description": "Make your way comfort",
+  "filename": "7.jpg"
+
+
+},
+{
+  "title": "Coolers",
+  "location":"karaikudi",
+  "shop":"Ramalingam stores",
+  "Address":"3Q99+P6W, Sekkalai Rd, Kallukatti, Karaikudi, Tamil Nadu 630001",
+  "type": "Accessory",
+  "description": "Make your way comfort",
+  "filename": "8.jpg"
+
+
+}
+,
+{
+  "title": "Neck band",
+  "location":"karaikudi",
+  "shop":"Ramalingam stores",
+  "Address":"3Q99+P6W, Sekkalai Rd, Kallukatti, Karaikudi, Tamil Nadu 630001",
+  "type": "Accessory",
+  "description": "Make your way comfort",
+  "filename": "9.jpg"
+
+
+}
+,
+{
+  "title": "jewllery",
+  "location":"karaikudi",
+  "shop":"Malabar gold and dimonds",
+  "Address":"Sekkalai Rd, near Indian overseas bank, Muthupattinam, Karaikudi, Tamil Nadu 630003",
+  "type": "Accessory",
+  "description": "Make you more rich",
+  "filename": "10.jpg"
+
+
+}
+]
